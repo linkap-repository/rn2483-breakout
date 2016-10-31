@@ -1,0 +1,12 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~RN2483_breakout.PrjPcb|ReportField=ProjectFullPath~F:\projects\IOT\RN2483_breakout\RN2483_breakout.PrjPcb|ReportField=Title~Bill of Materials For Project [RN2483_breakout.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~20|ReportField=ReportTime~12:29:53 ?.?|ReportField=ReportDate~30/09/2016|ReportField=ReportDateTime~30/09/2016 12:29:53 ?.?|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~30/09/2016|ReportField=CurrentTime~12:27:33 ?.?|ReportField=Date~|ReportField=DocumentFullPathAndName~F:\projects\IOT\RN2483_breakout\RN2483_breakout.SchDoc|ReportField=DocumentName~RN2483_breakout.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~21/09/2016|ReportField=Organization~|ReportField=ProjectName~RN2483_breakout.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~RN2483_breakout.PrjPcb|ReportField=DataSourceFullPath~F:\projects\IOT\RN2483_breakout\RN2483_breakout.PrjPcb
+220uF|CAPACITOR POLARISED|C1, C2|TANTAL_SIZEA|220UF-5MM|2
+100nF|CAPACITOR 0805 CERAMIC|C3, C4, C5|0805C-GENERIC|0805C-10UF-6V3-X5R-PAN|3
+LED-3MM-GENERIC|GENERIC LED 3MM|D1, D2|0805R-GENERIC|LED-3MM-GENERIC|2
+HEADER-1X6||GPIO, K3|HEADER-1X6|HEADER-1X6|2
+SMA-EL|SMA THREADED RF CONNECTOR VERTICAL|K1, K2|SMA-ENDLAUNCH|SMA-EL|2
+1K8|RESISTOR 0805 1/4 WATT THIN FILM|R1, R2, R3|0805R-1K8|0805R-1K8|3
+0R|RESISTOR 0805 1 WATT|R4, R5|0805R-GENERIC|0805R-0R|2
+SW-PB|Switch|S1|SW|SW-PB|1
+AMS1117|Voltage Regulator|T_1|SOT-223B_M|LM7815|1
+RN2483|RN2483 - Microchip|U1|RN2483|RN2483|1
+HEADER-1X3||Vcc|HEADER-1X3|HEADER-1X3|1
